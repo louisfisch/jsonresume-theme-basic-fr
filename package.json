@@ -1,0 +1,31 @@
+{
+    "name": "jsonresume-theme-basic-fr",
+    "version": "1.0.0",
+    "description": "Basic theme in French for JSON Resume",
+    "keywords": [
+        "basic",
+        "french",
+        "json",
+        "jsonresume",
+        "jsonresume-theme",
+        "resume",
+        "theme"
+    ],
+    "license": "MIT",
+    "author": "Louis Fischer",
+    "files": [
+        "index.js",
+        "resume.hbs"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/louisfisch/jsonresume-theme-basic-fr"
+    },
+    "dependencies": {
+        "handlebars": "^4.7.8",
+        "html-minifier": "^4.0.0"
+    },
+    "devDependencies": {
+        "resume-cli": "^3.0.8"
+    }
+}
